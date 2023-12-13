@@ -3,11 +3,11 @@
 # NOTE
 - **Epheurem is a fictional character**
 
-This is a portfolio website showcasing the work and skills of Epheurem. The portfolio provides an overview of their projects, skills, and experience.
+This is a portfolio website showcases the work and skills of Epheurem. The portfolio provides an overview of their projects, skills, and experience.
 
 ## About
 
-Epheurem is a diverse skilled individual with a passion for the creative arts. This portfolio serves as a digital showcase of their accomplishments and capabilities.
+Epheurem is a diverse skilled individual with a passion for the creativity and its related arts. This portfolio serves as a digital showcase of their accomplishments and capabilities.
 
 ## Features
 
